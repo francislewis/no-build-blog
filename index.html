@@ -8,9 +8,17 @@
 
 </head>
 <body>
-<xmp theme="united" style="display:none;">
-<div class="js-include" title="index-content.md"></div>
+<xmp id="content" theme="united" style="display:none;">
 </xmp>
+<script type="text/javascript">
+  var req = new XMLHttpRequest();
+  req.onload = function() {
+    var xmpNode = document.getElementById('content');
+    xmpNode.appendChild(document.createTextNode(this.responseText));
+  }
+  req.open('GET', 'index-content.md', false);
+  req.send();
+</script>
 
 <!--JS-->
 <script src="http://strapdownjs.com/v/0.2/strapdown.js"></script>
