@@ -1,3 +1,9 @@
+[navbar]Brand reference
+***
+* Hierarchical
+ * list of
+ * menu items[/navbar]
+ 
 #How-to
 Quite a few times I have found myself searching the internet tirelessly trying to find an answer to my questions.
 So, I made this site to try and help others find solutions to the answers I couldn't find.
