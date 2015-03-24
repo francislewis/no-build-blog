@@ -52,17 +52,8 @@
  </style>
 </head>
 <body>
-<header>
-    <div class="nav">
-      <ul>
-        <li class="home"><a href="#">Home</a></li>
-        <li class="tutorials"><a class="active" href="#">Tutorials</a></li>
-        <li class="about"><a href="#">About</a></li>
-        <li class="news"><a href="#">Newsletter</a></li>
-        <li class="contact"><a href="#">Contact</a></li>
-      </ul>
-    </div>
-  </header>
+<div id=navbar>
+</div>
 
 <xmp id="content" theme="united" style="display:none;">
 </xmp>
@@ -76,6 +67,14 @@
     xmpNode.appendChild(document.createTextNode(this.responseText));
   }
   req.open('GET', 'index-content.md', false);
+  req.send();
+  
+   var req = new XMLHttpRequest();
+  req.onload = function() {
+    var xmpNode = document.getElementById('navbar');
+    xmpNode.appendChild(document.createTextNode(this.responseText));
+  }
+  req.open('GET', 'navbar.html', false);
   req.send();
 </script>
 
