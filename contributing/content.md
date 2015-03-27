@@ -20,10 +20,15 @@ This makes it easy for anybody to write it. To write it you may find these resou
 This markdown is taken from the file with JS and then embedded using [Strapdown](http://strapdownjs.com/).
 
 ###Step 1
-Go to the [github repo for this website](https://github.com/francislewis/How-to). Click the + button as shown here:
+Go to the [Github repository](https://github.com/francislewis/How-to) for this website. Click the + button as shown here:
 
 insert image
 
 
 ###Step 2
-On the page that just  
+On the page that then click the `+`  button near the current directory.
+
+insert image
+
+###Step 3
+
