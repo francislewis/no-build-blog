@@ -12,8 +12,12 @@ To get started, make sure the tutorial you are writing works and that you have t
 ##How it works
 Everything wriiten on this site is written in [markdown](https://daringfireball.net/projects/markdown/).
 This makes it easy for anybody to write it. To write it you may find these resources useful 
+
 1. [Cheatsheet](https://help.github.com/articles/markdown-basics/)
+
 2. [Editor](https://stackedit.io/editor)
+
+This markdown is taken from the file with JS and then embedded using [Strapdown](http://strapdownjs.com/).
 
 ###Step 1
 Go to the [github repo for this website](https://github.com/francislewis/How-to). Click the + button as shown here:
