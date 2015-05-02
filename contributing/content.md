@@ -1,8 +1,3 @@
-### Table of contents
-
-[TOC]
-
-
 #Contributing
 Want to write a tutorial?
 
