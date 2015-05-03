@@ -10,7 +10,7 @@ This makes it easy for anybody to write it. To write it you may find these resou
 
 1. [Cheatsheet](https://help.github.com/articles/markdown-basics/)
 
-2. [Editor](https://stackedit.io/editor)
+2. [StackEdit](https://stackedit.io/editor)(Markdown editor)
 
 This markdown is taken from the file with JS and then embedded using [Strapdown](http://strapdownjs.com/).
 
