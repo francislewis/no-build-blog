@@ -10,20 +10,20 @@ This makes it easy for anybody to write it. To write it you may find these resou
 
 1. [Cheatsheet](https://help.github.com/articles/markdown-basics/)
 
-2. [StackEdit](https://stackedit.io/editor)(Markdown editor)
+2. [StackEdit](https://stackedit.io/editor) (Markdown editor)
 
 This markdown is taken from the file with JS and then embedded using [Strapdown](http://strapdownjs.com/).
 
 ###Step 1
 Go to the [Github repository](https://github.com/francislewis/How-to) for this website. Click the + button as shown here:
 
-insert image
+![](insert image url)
 
 
 ###Step 2
 On the page that then click the `+`  button near the current directory.
 
-insert image
+![](insert image url)
 
 ###Step 3
 
