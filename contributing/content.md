@@ -15,7 +15,7 @@ This makes it easy for anybody to write it. To write it you may find these resou
 This markdown is taken from the file with JS and then embedded using [Strapdown](http://strapdownjs.com/).
 
 ###Step 1
-Go to the [Github repository](https://github.com/francislewis/How-to) for this website. Click the + button as shown here:
+Go to the [Github repository](https://github.com/francislewis/how-to) for this website. Click the + button as shown here:
 
 ![](insert image url)
 
