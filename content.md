@@ -6,6 +6,9 @@ This makes it easy for anybody to write it. To write it you may find these resou
 
 2. [StackEdit](https://stackedit.io/editor) (Markdown editor)
 
-This content written in markdown is dynamically placed in the webpage using JS and then rendered using [Strapdown JS](http://strapdownjs.com/).
+####On page load
+On page load this is what happens:
 
-
+1. HTML page including navbar and css are loaded.
+2. A new AJAX HTTP request is made through JS and themarkdown content is loaded.
+3. The raw markdown is then rendered using [Strapdown JS](http://strapdownjs.com/) to make it look better.
