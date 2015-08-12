@@ -1,5 +1,5 @@
 ##How it works
-Everything wriiten on this site is written in [markdown](https://daringfireball.net/projects/markdown/).
+Everything written on this site is written in [markdown](https://daringfireball.net/projects/markdown/).
 This makes it easy for anybody to write it. To write it you may find these resources useful 
 
 1. [Cheatsheet](https://help.github.com/articles/markdown-basics/)
