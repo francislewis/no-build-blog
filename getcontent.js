@@ -3,5 +3,5 @@
     var xmpNode = document.getElementById('content');
     xmpNode.appendChild(document.createTextNode(this.responseText));
   }
-  req.open('GET', 'content.md', false);
+  req.open('GET', 'content.md', true);
   req.send();
